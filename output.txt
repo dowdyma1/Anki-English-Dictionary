@@ -1,0 +1,246 @@
+Abhorrence
+Noun:
+1. hate coupled with disgust
+
+
+Exultation
+Noun:
+1. a feeling of extreme joy
+2. the utterance of sounds expressing great joy
+
+
+Sinewy
+Adjective:
+1. (of meat
+2. consisting of tendons or resembling a tendon
+3. (of a person
+
+
+Adherent
+Noun:
+1. someone who believes and helps to spread the doctrine of another
+
+Adjective:
+1. sticking fast
+
+
+Self-aggrandizing
+Adjective:
+1. of or relating to or characteristic of self-aggrandizement
+2. exhibiting self-importance
+
+
+Sibilant
+Noun:
+1. a consonant characterized by a hissing sound (like s or sh
+
+Adjective:
+1. of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then'
+
+
+Propriety
+Noun:
+1. correct or appropriate behavior
+
+
+Relish
+Noun:
+1. vigorous and enthusiastic enjoyment
+2. spicy or savory condiment
+3. the taste experience when a savoury condiment is taken into the mouth
+
+Verb:
+1. derive or receive pleasure from; get enjoyment from; take pleasure in
+
+
+Calamity
+Noun:
+1. an event resulting in great loss and misfortune
+
+
+Jaunt
+Noun:
+1. a journey taken for pleasure
+
+Verb:
+1. make a trip for pleasure
+
+
+Multifarious
+Adjective:
+1. having many aspects or qualities
+
+
+Sedition
+Noun:
+1. an illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government
+
+
+Modicum
+Noun:
+1. a small or moderate or token amount
+
+
+Covetous
+Adjective:
+1. showing extreme cupidity; painfully desirous of another's advantages
+2. immoderately desirous of acquiring e.g. wealth
+
+
+Oblong
+Noun:
+1. a plane figure that deviates from a square or circle due to elongation
+
+Adjective:
+1. (of a leaf shape
+2. deviating from a square or circle or sphere by being elongated in one direction
+
+
+Reticence
+Noun:
+1. the trait of being uncommunicative; not volunteering anything more than necessary
+
+
+Surfeit
+Noun:
+1. the state of being more than full
+2. the quality of being so overabundant that prices fall
+3. eating until excessively full
+
+Verb:
+1. supply or feed to surfeit
+2. indulge (one's appetite
+
+
+Malevolent
+Adjective:
+1. wishing or appearing to wish evil to others; arising from intense ill will or hatred
+2. having or exerting a malignant influence
+
+
+Isometric
+Noun:
+1. a line connecting isometric points
+
+Adjective:
+1. related by an isometry
+2. of or involving muscular contraction in which tension increases while length remains constant
+3. having equal dimensions or measurements
+4. of a crystal system characterized by three equal axes at right angles
+
+
+Yearning
+Noun:
+1. prolonged unfulfilled desire or need
+
+Verb:
+1. desire strongly or persistently
+2. have a desire for something or someone who is not present
+3. have affection for; feel tenderness for
+
+
+Dissent
+Noun:
+1. a difference of opinion
+2. the act of protesting; a public (often organized
+
+Verb:
+1. withhold assent
+2. express opposition through action or words
+3. be of different opinions
+
+
+Vindicated
+Verb:
+1. show to be right by providing justification or proof
+2. maintain, uphold, or defend
+3. clear of accusation, blame, suspicion, or doubt with supporting proof
+
+Adjective:
+1. freed from any question of guilt
+
+
+Derelict
+Noun:
+1. a person without a home, job, or property
+2. a ship abandoned on the high seas
+
+Adjective:
+1. worn and broken down by hard use
+2. forsaken by owner or inhabitants
+3. failing in what duty requires
+4. or delinquent
+5. in deplorable condition
+
+
+Exhortation
+Noun:
+1. a communication intended to urge or persuade the recipients to take some action
+2. the act of exhorting; an earnest attempt at persuasion
+
+
+Surly
+Adjective:
+1. inclined to anger or bad feelings with overtones of menace
+
+
+Vestibule
+Noun:
+1. a large entrance or reception room or area
+2. any of various bodily cavities leading to another cavity (as of the ear or vagina
+
+
+Assuage
+Verb:
+1. cause to be more favorably inclined; gain the good will of
+2. satisfy (thirst
+3. provide physical relief, as from pain
+
+
+Precipitous
+Adjective:
+1. done with very great haste and without due deliberation
+2. extremely steep
+
+
+Menace
+Noun:
+1. something that is a source of danger
+2. a threat or the act of threatening
+
+Verb:
+1. pose a threat to; present a danger to
+2. express a threat either by an utterance or a gesture
+3. act in a threatening manner
+
+
+Taciturn
+Adjective:
+1. habitually reserved and uncommunicative
+
+
+Supplication
+Noun:
+1. a prayer asking God's help as part of a religious service
+2. a humble request for help from someone in authority
+3. the act of communicating with a deity (especially as a petition or in adoration or contrition or thanksgiving
+
+
+Tenuous
+Adjective:
+1. having thin consistency
+2. very thin in gauge or diameter
+3. lacking substance or significance
+
+
+Abashed
+Verb:
+1. cause to be embarrassed; cause to feel self-conscious
+
+Adjective:
+1. feeling or caused to feel ill at ease or self-conscious or ashamed
+
+
+Error: The Following Error occured: list index out of range
+Errors:
+['Numinosity']
