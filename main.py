@@ -1,26 +1,38 @@
 from PyDictionary import PyDictionary
+import pyperclip
 
-dictionary = PyDictionary()
 
-x = ["Abhorrence", "Exultation", "Sinewy", "Adherent", "Self-aggrandizing", "Sibilant", "Propriety", "Relish", "Calamity", "Jaunt", "Multifarious", "Sedition", "modicum", "covetous", "Oblong", "Reticence", "Surfeit", "Malevolent", "Isometric", "Yearning", "Dissent", "Vindicated", "Derelict", "Exhortation", "Surly", "vestibule", "Assuage", "Precipitous", "Menace", "Taciturn", "Supplication", "Tenuous", "Abashed", "Numinosity"]
+def main():
+    dictionary = PyDictionary()
+    userInput = ""
+    definition = ""
 
-error = []
-for word in x:
-    querry = dictionary.meaning(word)
-    word  = word.capitalize()
-    try:
-        querry.items()
-    except:
-        error.append(word)
-        break
+    print("type -1 to quit.")
+    while(userInput != "-1"):
+        userInput = input("Type word to lookup: ")
+        if(userInput == "-1"):
+            break
 
-    print(word)
-    for key, value in querry.items():
-        print(key + ":")
-        for i in range(len(value)):
-            print(str(i+1) + ". " + value[i])
-        print()
-    print()
+        word = userInput
+        querry = dictionary.meaning(word)
+        word  = word.capitalize()
+        try:
+            querry.items()
+        except:
+            print("Could not find {} in dictionary.".format(word))
 
-print("Errors:")
-print(error)
+        definition += word + "\n\n"
+        for key, value in querry.items():
+            definition += key + ":\n"
+            for i in range(len(value)):
+                definition += str(i+1) + ". " + value[i] + "\n"
+            definition += "\n"
+
+        pyperclip.copy(definition)
+        print("Definition copied to clipboard.")
+
+        definition = ""
+
+
+if __name__ == "__main__":
+    main()
